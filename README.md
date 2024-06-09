@@ -1,3 +1,2 @@
 # parajuliaryan.github.io
-A GitHub page to showcase my projects. 😃
-Basically, its just a simple portfolio. 😉 
+A GitHub page acting as my portfolio *wink* 😉🤭👨‍💻
